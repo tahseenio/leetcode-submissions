@@ -13,7 +13,7 @@ prices = [7, 1, 5, 3, 6, 4];
 //   return profit;
 // }
 
-// optimised solution 149ms 32.3% faster, 51.3MB
+// optimised solution
 function maxProfit(prices) {
   profit = 0;
   let minVal = Infinity;
