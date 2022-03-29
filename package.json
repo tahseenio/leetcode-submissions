@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "npm": "^8.5.5"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "name": "leetcode-submissions",
+  "version": "1.0.0",
+  "main": "1 - Two Sum.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahseenio/leetcode-submissions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahseenio/leetcode-submissions/issues"
+  },
+  "homepage": "https://github.com/tahseenio/leetcode-submissions#readme",
+  "description": ""
+}

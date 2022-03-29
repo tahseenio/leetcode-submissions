@@ -7,7 +7,10 @@ digits = [
 ];
 
 function plusOne(arr) {
-  return (BigInt(arr.join('')) + 1n).toString().split('');
+  return (BigInt(arr.join('')) + 1n).toString().split('').map(Number);
 }
 
 console.log(plusOne(digits));
+
+
+module.exports = plusOne 
